@@ -18,16 +18,16 @@ Learn everything you need to about the subject of this `Udemy` project.
 Section: 1
 0 / 34
 Ansible 2 for Beginners
-[ ] 1. The Course Overview 4:25
-[ ] 2. What Is Ansible? 3:29
-[ ] 3. Why Ansible? 3:09
-[ ] 4. Demonstration – From Bash to Ansible 19:28
-[ ] 5. Course Layout 2:54
-[ ] 6. Basic Ansible Vocabulary 2:53
-[ ] 7. New Features in Ansible 2.0 3:30
-[ ] 8. Creating an Ansible Home Base 3:02
-[ ] 9. Installing Ansible 5:48
-[ ] 10. Bleeding-Edge Ansible Installation 8:30
+[x] 1. The Course Overview 4:25
+[x] 2. What Is Ansible? 3:29
+[x] 3. Why Ansible? 3:09
+[x] 4. Demonstration – From Bash to Ansible 19:28
+[x] 5. Course Layout 2:54
+[x] 6. Basic Ansible Vocabulary 2:53
+[x] 7. New Features in Ansible 2.0 3:30
+[x] 8. Creating an Ansible Home Base 3:02
+[x] 9. Installing Ansible 5:48
+[x] 10. Bleeding-Edge Ansible Installation 8:30
 [ ] 11. Setting up our Test Environment 7:33
 [ ] 12. Target Machine Requirements 3:07
 [ ] 13. Ansible Configuration Hierarchy 5:16
